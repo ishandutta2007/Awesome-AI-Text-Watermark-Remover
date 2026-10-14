@@ -71,54 +71,54 @@ The table below catalogs commercial platforms providing AI text humanization, pa
 
 A comprehensive collection of transparent, self-hostable, and research-grade GitHub repositories for LLM watermarking, statistical watermark removal, and text humanization. 
 
-Entries are **sorted descending by GitHub star count**:
+Entries are **sorted descending by GitHub Stars_Count**:
 
-1. **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** [![GitHub Stars](https://img.shields.io/github/stars/guofei9987/text_blind_watermark?style=social&color=white)](https://github.com/guofei9987/text_blind_watermark/stargazers)  
+1. **[guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)** [![GitHub_Stars](https://img.shields.io/github/stars/guofei9987/text_blind_watermark?style=social&color=white)](https://github.com/guofei9987/text_blind_watermark/stargazers)  
    *Python library for embedding and extracting blind/invisible watermarks in textual data using whitespace, Unicode zero-width sequences, and token mutations.*
 
-2. **[google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text)** [![GitHub Stars](https://img.shields.io/github/stars/google-deepmind/synthid-text?style=social&color=white)](https://github.com/google-deepmind/synthid-text/stargazers)  
+2. **[google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text)** [![GitHub_Stars](https://img.shields.io/github/stars/google-deepmind/synthid-text?style=social&color=white)](https://github.com/google-deepmind/synthid-text/stargazers)  
    *Official Google DeepMind implementation of SynthID-Text watermarking. Implements cryptographic pseudo-random tournament sampling for generating key-verifiable watermarked tokens without compromising output quality.*
 
-3. **[THU-BPM/MarkLLM](https://github.com/THU-BPM/MarkLLM)** [![GitHub Stars](https://img.shields.io/github/stars/THU-BPM/MarkLLM?style=social&color=white)](https://github.com/THU-BPM/MarkLLM/stargazers)  
+3. **[THU-BPM/MarkLLM](https://github.com/THU-BPM/MarkLLM)** [![GitHub_Stars](https://img.shields.io/github/stars/THU-BPM/MarkLLM?style=social&color=white)](https://github.com/THU-BPM/MarkLLM/stargazers)  
    *The premier open-source toolkit and benchmark for LLM watermarking (EMNLP 2024 Demo). Implements 9+ watermarking algorithms (KGW, Christ, Aaronson, SynthID, SIR) and evaluation pipelines against removal attacks.*
 
-4. **[PrithivirajDamodaran/Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser)** [![GitHub Stars](https://img.shields.io/github/stars/PrithivirajDamodaran/Parrot_Paraphraser?style=social&color=white)](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser/stargazers)  
+4. **[PrithivirajDamodaran/Parrot_Paraphraser](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser)** [![GitHub_Stars](https://img.shields.io/github/stars/PrithivirajDamodaran/Parrot_Paraphraser?style=social&color=white)](https://github.com/PrithivirajDamodaran/Parrot_Paraphraser/stargazers)  
    *Production-focused paraphrasing framework for augmenting and humanizing intent in text. Offers fine-grained control over adequacy, fluency, and lexical diversity.*
 
-5. **[jwkirchenbauer/lm-watermarking](https://github.com/jwkirchenbauer/lm-watermarking)** [![GitHub Stars](https://img.shields.io/github/stars/jwkirchenbauer/lm-watermarking?style=social&color=white)](https://github.com/jwkirchenbauer/lm-watermarking/stargazers)  
+5. **[jwkirchenbauer/lm-watermarking](https://github.com/jwkirchenbauer/lm-watermarking)** [![GitHub_Stars](https://img.shields.io/github/stars/jwkirchenbauer/lm-watermarking?style=social&color=white)](https://github.com/jwkirchenbauer/lm-watermarking/stargazers)  
    *The seminal paper implementation for "A Watermark for Large Language Models" (Kirchenbauer et al., ICML 2023). Implements green-red list hash-based token biasing and statistical z-score watermark extraction.*
 
-6. **[harshaneel/humanize](https://github.com/harshaneel/humanize)** [![GitHub Stars](https://img.shields.io/github/stars/harshaneel/humanize?style=social&color=white)](https://github.com/harshaneel/humanize/stargazers)  
+6. **[harshaneel/humanize](https://github.com/harshaneel/humanize)** [![GitHub_Stars](https://img.shields.io/github/stars/harshaneel/humanize?style=social&color=white)](https://github.com/harshaneel/humanize/stargazers)  
    *Static AI text humanizer featuring 9 research-grounded levers based on 50+ peer-reviewed detection evasion studies (2024–2026). LLM-agnostic prompt strategies to neutralize synthetic cadence.*
 
-7. **[Vamsi995/Paraphrase-Generator](https://github.com/Vamsi995/Paraphrase-Generator)** [![GitHub Stars](https://img.shields.io/github/stars/Vamsi995/Paraphrase-Generator?style=social&color=white)](https://github.com/Vamsi995/Paraphrase-Generator/stargazers)  
+7. **[Vamsi995/Paraphrase-Generator](https://github.com/Vamsi995/Paraphrase-Generator)** [![GitHub_Stars](https://img.shields.io/github/stars/Vamsi995/Paraphrase-Generator?style=social&color=white)](https://github.com/Vamsi995/Paraphrase-Generator/stargazers)  
    *T5-powered sentence-level paraphrase generator producing diverse syntactic variants while preserving semantic core information.*
 
-8. **[martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases)** [![GitHub Stars](https://img.shields.io/github/stars/martiansideofthemoon/ai-detection-paraphrases?style=social&color=white)](https://github.com/martiansideofthemoon/ai-detection-paraphrases/stargazers)  
+8. **[martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases)** [![GitHub_Stars](https://img.shields.io/github/stars/martiansideofthemoon/ai-detection-paraphrases?style=social&color=white)](https://github.com/martiansideofthemoon/ai-detection-paraphrases/stargazers)  
    *The foundational **DIPPER** (Discourse Paraphraser) research repository from NeurIPS 2023 ("Paraphrasing evades detectors of AI-generated text"). Provides 11B parameter controllable paragraph-level paraphrasing with lexical and ordering diversity levers.*
 
-9. **[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer)** [![GitHub Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social&color=white)](https://github.com/rudra496/StealthHumanizer/stargazers)  
+9. **[rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer)** [![GitHub_Stars](https://img.shields.io/github/stars/rudra496/StealthHumanizer?style=social&color=white)](https://github.com/rudra496/StealthHumanizer/stargazers)  
    *Open-source, self-hostable web interface supporting 35+ LLM providers (Gemini, Groq, OpenAI, Claude), 4 rewrite levels, 6 writing styles, and 12 internal detection metrics.*
 
-10. **[yasir-mo/AI-watermark-remover-GUI](https://github.com/yasir-mo/AI-watermark-remover-GUI)** [![GitHub Stars](https://img.shields.io/github/stars/yasir-mo/AI-watermark-remover-GUI?style=social&color=white)](https://github.com/yasir-mo/AI-watermark-remover-GUI/stargazers)  
+10. **[yasir-mo/AI-watermark-remover-GUI](https://github.com/yasir-mo/AI-watermark-remover-GUI)** [![GitHub_Stars](https://img.shields.io/github/stars/yasir-mo/AI-watermark-remover-GUI?style=social&color=white)](https://github.com/yasir-mo/AI-watermark-remover-GUI/stargazers)  
     *GUI-based research utility for inspecting, benchmarking, and scrubbing AI document metadata, invisible Unicode trackers, and hidden document artifacts.*
 
-11. **[ruvnet/ai-text-watermark](https://github.com/ruvnet/ai-text-watermark)** [![GitHub Stars](https://img.shields.io/github/stars/ruvnet/ai-text-watermark?style=social&color=white)](https://github.com/ruvnet/ai-text-watermark/stargazers)  
+11. **[ruvnet/ai-text-watermark](https://github.com/ruvnet/ai-text-watermark)** [![GitHub_Stars](https://img.shields.io/github/stars/ruvnet/ai-text-watermark?style=social&color=white)](https://github.com/ruvnet/ai-text-watermark/stargazers)  
     *Rust and WebAssembly implementation of invisible, key-verifiable watermarks for LLM generation (SynthID-style). Runs in Node.js and client-side browsers.*
 
-12. **[Shreyan1/ai-text-watermark-remover](https://github.com/Shreyan1/ai-text-watermark-remover)** [![GitHub Stars](https://img.shields.io/github/stars/Shreyan1/ai-text-watermark-remover?style=social&color=white)](https://github.com/Shreyan1/ai-text-watermark-remover/stargazers)  
+12. **[Shreyan1/ai-text-watermark-remover](https://github.com/Shreyan1/ai-text-watermark-remover)** [![GitHub_Stars](https://img.shields.io/github/stars/Shreyan1/ai-text-watermark-remover?style=social&color=white)](https://github.com/Shreyan1/ai-text-watermark-remover/stargazers)  
     *Scheme-blind AI text watermark removal tool designed to scrub SynthID-Text, KGW, and Unigram marks through semantic reconstruction on local models.*
 
-13. **[Zhou-Shilin/SynthID-Text-Bypass](https://github.com/Zhou-Shilin/SynthID-Text-Bypass)** [![GitHub Stars](https://img.shields.io/github/stars/Zhou-Shilin/SynthID-Text-Bypass?style=social&color=white)](https://github.com/Zhou-Shilin/SynthID-Text-Bypass/stargazers)  
+13. **[Zhou-Shilin/SynthID-Text-Bypass](https://github.com/Zhou-Shilin/SynthID-Text-Bypass)** [![GitHub_Stars](https://img.shields.io/github/stars/Zhou-Shilin/SynthID-Text-Bypass?style=social&color=white)](https://github.com/Zhou-Shilin/SynthID-Text-Bypass/stargazers)  
     *Research demonstration scrubbing generative text watermarks (including SynthID-Text) via sliding-window Masked Language Modeling (MLM) token replacement (ModernBERT / mmBERT).*
 
-14. **[GoHumanize-ai/gohumanize-open-humanizer](https://github.com/GoHumanize-ai/gohumanize-open-humanizer)** [![GitHub Stars](https://img.shields.io/github/stars/GoHumanize-ai/gohumanize-open-humanizer?style=social&color=white)](https://github.com/GoHumanize-ai/gohumanize-open-humanizer/stargazers)  
+14. **[GoHumanize-ai/gohumanize-open-humanizer](https://github.com/GoHumanize-ai/gohumanize-open-humanizer)** [![GitHub_Stars](https://img.shields.io/github/stars/GoHumanize-ai/gohumanize-open-humanizer?style=social&color=white)](https://github.com/GoHumanize-ai/gohumanize-open-humanizer/stargazers)  
     *Open research pipeline and Qwen3-4B fine-tune trained on public-domain English prose to eliminate AI stylistic quirks; includes full training data and MCP server integration.*
 
-15. **[JustJade2007/Jade-s-AI-Humanizer](https://github.com/JustJade2007/Jade-s-AI-Humanizer)** [![GitHub Stars](https://img.shields.io/github/stars/JustJade2007/Jade-s-AI-Humanizer?style=social&color=white)](https://github.com/JustJade2007/Jade-s-AI-Humanizer/stargazers)  
+15. **[JustJade2007/Jade-s-AI-Humanizer](https://github.com/JustJade2007/Jade-s-AI-Humanizer)** [![GitHub_Stars](https://img.shields.io/github/stars/JustJade2007/Jade-s-AI-Humanizer?style=social&color=white)](https://github.com/JustJade2007/Jade-s-AI-Humanizer/stargazers)  
     *Zero-dependency local Python CLI and REST API daemon for humanizing AI text with formatting preservation (code blocks, tables, markdown).*
 
-16. **[TextHumanizer/texthumanizer](https://github.com/TextHumanizer/texthumanizer)** [![GitHub Stars](https://img.shields.io/github/stars/TextHumanizer/texthumanizer?style=social&color=white)](https://github.com/TextHumanizer/texthumanizer/stargazers)  
+16. **[TextHumanizer/texthumanizer](https://github.com/TextHumanizer/texthumanizer)** [![GitHub_Stars](https://img.shields.io/github/stars/TextHumanizer/texthumanizer?style=social&color=white)](https://github.com/TextHumanizer/texthumanizer/stargazers)  
     *100% offline, CPU-friendly Python library and CLI utilizing HuggingFace T5 with citation-aware masking (`[1]`, `et al.`) and DOCX document support.*
 
 ---
@@ -168,7 +168,7 @@ We welcome contributions from the community to keep this directory up-to-date!
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
 3. 📝 **Add your tool or model**:
    - Ensure SaaS entries include **Name**, **Focus**, **Company Scale**, **Specific Starting Price**, and **Specific Free Tier Limit**.
-   - Ensure Open-Source entries include a **Shields.io Social Star Badge** linking to the repo's `/stargazers` page.
+   - Ensure Open-Source entries include a **Shields.io Social Stars_Badge** linking to the repo's `/stargazers` page.
 4. 📬 **Submit a Pull Request** with a concise description of the tool's relevance.
 
 *Explore our master curated ecosystem at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).*
